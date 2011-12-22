@@ -1,5 +1,5 @@
 # Multiple MultiMarkdown Typography Stylesheets
-*Forked from [MultiMarkdown-typography-stylesheet](https://github.com/cloud8421/MultiMarkdown-typography-stylesheet) by [cloud8421](https://github.com/cloud8421)*
+*Forked from [MultiMarkdown-typography-stylesheet](https://github.com/cloud8421/MultiMarkdown-typography-stylesheet), a project by [cloud8421](https://github.com/cloud8421)*, based on work by Based on the IE6 Universal Stylesheet by Andy Clark [here](http://forabeautifulweb.com/blog/about/universal_internet_explorer_6_css/).
 
 I use different CSS files for different parts of my markdown documentation.
 
