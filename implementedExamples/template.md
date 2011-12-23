@@ -1,4 +1,4 @@
-CSS: ../styleMono.css
+CSS: ../style.css
 
 ##Example Page for Stylesheets
 
