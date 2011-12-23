@@ -6,6 +6,7 @@ I use different CSS files for different parts of my MultiMarkdown documentation.
 ## Included Stylesheets
 
 * Original - style.css
+  * All non-link text is black. - styleMono.css
 
 
 ## [MultiMarkdown-typography-stylesheet](https://github.com/cloud8421/MultiMarkdown-typography-stylesheet) project README 

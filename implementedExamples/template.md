@@ -1,8 +1,8 @@
-CSS: ../style.css
+CSS: ../styleMono.css
 
 ##Example Page for Stylesheets
 
- [style.css example HTML](style.html)
+ [styleMono.css example HTML](styleMono.html)
 
 # H1  
 ## H2
